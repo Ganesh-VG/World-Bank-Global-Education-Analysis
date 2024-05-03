@@ -1,5 +1,5 @@
 # World Bank Global Education Analysis
-The World Bank Education Statistics survey gathers extensive data from 217 countries and 25 country groups, comprising 886,930 rows and 69 columns. The dataset encompasses 3,665 indicators for comprehensive analysis. This project entails data wrangling, analysis, and visualization of education-related data sourced from national surveys, international assessments, and official statistics.
+The World Bank Education Statistics survey gathers extensive data from 217 countries and 25 country groups, comprising 8,86,930 rows and 69 columns. The dataset encompasses 3,665 indicators for comprehensive analysis. This project entails data wrangling, analysis, and visualization of education-related data sourced from national surveys, international assessments, and official statistics.
 
 Through the World Bank Global Education Analysis Project, stakeholders can gain valuable insights into the current state of education, monitor progress towards educational goals, and make informed decisions to support the development of inclusive and high-quality education systems globally.
 
